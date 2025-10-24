@@ -2,7 +2,7 @@
  * Clase que representa una película.
  * Contiene información básica como título, género y año de estreno.
  * 
- * @author 
+ * @author Pinto Hernan
  * @version 1.0
  */
 public class Pelicula {
