@@ -5,7 +5,7 @@ import java.util.List;
  * Clase que gestiona una colección de películas.
  * Permite agregar y listar películas.
  * 
- * @author 
+ * @author Pinto Hernan
  * @version 1.0
  */
 public class GestorPeliculas {
